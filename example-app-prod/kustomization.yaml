@@ -1,6 +1,6 @@
 # namePrefix: kustomize-
 
 resources:
-  - example-app-deployment.yaml
+  - example-app-prod-deployment.yaml
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
