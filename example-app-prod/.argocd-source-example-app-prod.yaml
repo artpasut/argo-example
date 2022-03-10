@@ -1,0 +1,3 @@
+kustomize:
+  images:
+    - artpasut/argo-app:1.0.0
